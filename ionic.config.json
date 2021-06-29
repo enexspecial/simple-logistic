@@ -1,0 +1,7 @@
+{
+  "name": "simpleLogistic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
